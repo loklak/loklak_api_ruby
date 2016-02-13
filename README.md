@@ -1,5 +1,5 @@
 # Loklak
-Node.js wrapper for loklak.org API - [distributed tweet search server](https://github.com/loklak/loklak_server)
+Ruby wrapper for loklak.org API - [distributed tweet search server](https://github.com/loklak/loklak_server)
 
 ## Installation
 
