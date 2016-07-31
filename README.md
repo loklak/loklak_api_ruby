@@ -1,4 +1,7 @@
 # Loklak
+
+[![Dependency Status](https://gemnasium.com/badges/github.com/loklak/loklak_ruby_api.svg)](https://gemnasium.com/github.com/loklak/loklak_ruby_api)
+
 Ruby wrapper for loklak.org API - [distributed tweet search server](https://github.com/loklak/loklak_server)
 
 ## Installation
