@@ -3,7 +3,7 @@ require 'json'
 require 'loklak/version'
 require 'open-uri'
 
-BASE_API_URL = 'http://loklak.org/api/'.freeze
+BASE_API_URL = 'http://api.loklak.org/api/'.freeze
 
 def api_call(method_path = nil)
   return {} if method_path.nil?
